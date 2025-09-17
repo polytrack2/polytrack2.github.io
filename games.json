@@ -3,5 +3,50 @@
         "name": "PolyTrack",
         "slug": "polytrack",
         "image": "/cache/data/image/game/polytrack/polytrackgame-m186x186.webp"
+    },
+    {
+        "name": "Drift Hunters",
+        "slug": "drift-hunters",
+        "image": "/cache/data/image/game/drift-hunters/drift-hunters-m186x186.webp"
+    },
+    {
+        "name": "Traffic Road",
+        "slug": "traffic-road",
+        "image": "/cache/data/image/game/traffic-road/traffic-road-game-m186x186.webp"
+    },
+    {
+        "name": "Fury Chase",
+        "slug": "fury-chase",
+        "image": "/cache/data/image/game/fury-chase/fury-chase-m186x186.webp"
+    },
+    {
+        "name": "Fury Chase 2",
+        "slug": "fury-chase-2",
+        "image": "/cache/data/image/game/fury-chase-2/fury-chase-2-m186x186.webp"
+    },
+    {
+        "name": "American Truck Driving",
+        "slug": "american-truck-driving",
+        "image": "/cache/data/image/game/american-truck-driving/american-truck-driving-m186x186.webp"
+    },
+    {
+        "name": "Escape Road",
+        "slug": "escape-road",
+        "image": "/cache/data/image/game/escape-road/escape-road-m186x186.webp"
+    },
+    {
+        "name": "Escape Road City",
+        "slug": "escape-road-city",
+        "image": "/cache/data/image/game/escape-road-city/escape-road-city-m186x186.webp"
+    },
+    {
+        "name": "Breakout Racing",
+        "slug": "breakout-racing",
+        "image": "/cache/data/image/game/breakout-racing/breakout-racing-m186x186.webp"
+    },
+    {
+        "name": "Traffic Rally",
+        "slug": "traffic-rally",
+        "image": "/cache/data/image/game/traffic-rally/traffic-rally-m186x186.webp"
     }
 ]
