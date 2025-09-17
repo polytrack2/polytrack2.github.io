@@ -10,11 +10,6 @@
         "image": "/cache/data/image/game/drift-hunters/drift-hunters-m186x186.webp"
     },
     {
-        "name": "Traffic Road",
-        "slug": "traffic-road",
-        "image": "/cache/data/image/game/traffic-road/traffic-road-game-m186x186.webp"
-    },
-    {
         "name": "Fury Chase",
         "slug": "fury-chase",
         "image": "/cache/data/image/game/fury-chase/fury-chase-m186x186.webp"
